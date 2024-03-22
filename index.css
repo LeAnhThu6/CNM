@@ -1,0 +1,14 @@
+body {
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.th_item {
+  font-weight: normal;
+  text-align: center;
+}
+thead tr th {
+  text-align: center;
+}
